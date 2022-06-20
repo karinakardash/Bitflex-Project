@@ -6,12 +6,13 @@
           box-sizing: border-box;
   border: none;
   outline: none;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   list-style: none;
   text-decoration: none;
 }
 
-.html, body {
+.html,
+body {
   overflow-x: hidden;
 }
 
@@ -37,7 +38,7 @@ body.-lock {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   z-index: 100;
 }
 
@@ -115,7 +116,7 @@ body.-lock {
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  color: #8F95A5;
+  color: #8f95a5;
   font-weight: 500;
   color: #263238;
 }
@@ -143,7 +144,7 @@ body.-lock {
   padding: 15px;
   text-align: center;
   border: 2px solid #263238;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   font-size: 24px;
   line-height: 36px;
   font-weight: 400;
@@ -270,7 +271,7 @@ body.-lock {
   font-size: 24px;
   line-height: 36px;
   font-weight: 400;
-  color: #8F95A5;
+  color: #8f95a5;
   margin-bottom: 59px;
   max-width: 528px;
 }
@@ -307,7 +308,7 @@ body.-lock {
   text-align: center;
   border-radius: 15px;
   background-color: #263238;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 36px;
   line-height: 54px;
   font-weight: 400;
@@ -459,7 +460,7 @@ body.-lock {
 }
 
 .skills__item {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   border-radius: 10px;
 }
 
@@ -686,7 +687,7 @@ body.-lock {
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
-  color: #8F95A5;
+  color: #8f95a5;
   margin-bottom: 35px;
 }
 
@@ -713,7 +714,7 @@ body.-lock {
   text-align: center;
   border-radius: 5px;
   background-color: #263238;
-  color: #FFFFFF;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -871,7 +872,7 @@ body.-lock {
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  color: #8F95A5;
+  color: #8f95a5;
   margin-bottom: 33px;
 }
 
@@ -950,7 +951,7 @@ body.-lock {
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  color: #8F95A5;
+  color: #8f95a5;
   text-align: center;
 }
 
@@ -1123,8 +1124,9 @@ body.-lock {
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  color: #8F95A5;
+  color: #8f95a5;
   margin-bottom: 29px;
+  margin-top: auto;
 }
 
 @media (max-width: 992px) {
@@ -1148,7 +1150,7 @@ body.-lock {
   line-height: 45px;
   font-weight: 400;
   color: #263238;
-  background-color: #EEEEEE;
+  background-color: #eeeeee;
   width: 100%;
   max-width: 240px;
   border-radius: 5px;
@@ -1290,7 +1292,7 @@ body.-lock {
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  color: #8F95A5;
+  color: #8f95a5;
   margin-bottom: 52px;
 }
 
@@ -1352,7 +1354,7 @@ body.-lock {
 
 .contact__input {
   padding: 26px 10px 30px 33px;
-  border: 1px solid #8F95A5;
+  border: 1px solid #8f95a5;
   border-radius: 10px;
   max-width: 450px;
   margin-right: 12px;
@@ -1393,28 +1395,28 @@ body.-lock {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #8F95A5;
+  color: #8f95a5;
 }
 
 .contact__input:-ms-input-placeholder {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #8F95A5;
+  color: #8f95a5;
 }
 
 .contact__input::-ms-input-placeholder {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #8F95A5;
+  color: #8f95a5;
 }
 
 .contact__input::placeholder {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #8F95A5;
+  color: #8f95a5;
 }
 
 @media (max-width: 992px) {
@@ -1456,8 +1458,8 @@ body.-lock {
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  color: #8F95A5;
-  color: #FFFFFF;
+  color: #8f95a5;
+  color: #ffffff;
   background-color: #263238;
   border-radius: 10px;
   max-width: 264px;
@@ -1470,7 +1472,7 @@ body.-lock {
   .contact__btn {
     font-size: 16px;
     line-height: 24px;
-    color: #FFFFFF;
+    color: #ffffff;
   }
 }
 
@@ -1500,7 +1502,7 @@ body.-lock {
 }
 
 .footer .container {
-  border-top: 1px solid #C4C4C4;
+  border-top: 1px solid #c4c4c4;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1555,7 +1557,7 @@ body.-lock {
   font-weight: 400;
   font-size: 24px;
   line-height: 36px;
-  color: #8F95A5;
+  color: #8f95a5;
   display: inline;
   margin-right: 20px;
 }
@@ -1647,7 +1649,7 @@ body.-lock {
 }
 
 .burger__lines::before {
-  content: '';
+  content: "";
   position: absolute;
   width: 30px;
   height: 3px;
@@ -1658,7 +1660,7 @@ body.-lock {
 }
 
 .burger__lines::after {
-  content: '';
+  content: "";
   position: absolute;
   width: 30px;
   height: 3px;
@@ -1707,7 +1709,7 @@ body.-lock {
 
 .burger__nav._active {
   left: 0;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   z-index: 90;
 }
 
