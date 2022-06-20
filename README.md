@@ -1,5 +1,9 @@
 # Bitflex-Project
 
+
+https://karinakardash.github.io/Bitflex-Project/
+
+
 ## Technologies:
 <li>HTML5</li>
 <li>SСSS</li>
